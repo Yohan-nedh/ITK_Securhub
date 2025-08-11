@@ -124,7 +124,6 @@ Puisque je ne peux pas envoyer directement un fichier .doc (je suis un assistant
 **Titre du Document :** Cahier des Charges - Projet SecureHub  
 **Version :** 1.0  
 **Date :** 10 Août 2025  
-**Auteur :** Grok (basé sur les discussions)  
 **Projet :** SecureHub — Suite complète de sécurité personnelle et réseau  
 
 ---
